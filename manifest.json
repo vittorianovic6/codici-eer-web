@@ -1,7 +1,8 @@
 {
     "name": "Codici EER",
     "short_name": "Codici EER",
-    "start_url": "/",
+    "start_url": "/codici-eer-web/",
+    "scope": "/codici-eer-web/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
